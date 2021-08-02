@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Nave
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Nave\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=valorPoder
+comment1.target=void\ setPoder(int)
+comment2.params=
+comment2.target=int\ getPoder()
+comment3.params=valorBoost
+comment3.target=void\ setBoost(int)
+comment4.params=
+comment4.target=int\ getBoost()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=Nave()
+comment7.params=
+comment7.target=void\ moveAndTurn()
+comment8.params=
+comment8.target=void\ eat()
+numComments=9

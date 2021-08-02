@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Piedra1
+comment1.params=
+comment1.target=void\ act()
+comment10.params=
+comment10.target=void\ Rejugar()
+comment2.params=volverajugar
+comment2.target=void\ setrejugar(int)
+comment3.params=
+comment3.target=int\ getrejugar()
+comment4.params=tecla
+comment4.target=void\ setTecla(int)
+comment5.params=
+comment5.target=int\ getTecla()
+comment6.params=
+comment6.target=Piedra1()
+comment7.params=rejugar
+comment7.target=int\ eat(int)
+comment8.params=
+comment8.target=void\ move()
+comment9.params=
+comment9.target=void\ remove()
+numComments=11
